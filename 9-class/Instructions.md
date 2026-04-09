@@ -1,4 +1,4 @@
-# Quest 7: Class
+# Quest 9: Class
 
 ## O cenário
 

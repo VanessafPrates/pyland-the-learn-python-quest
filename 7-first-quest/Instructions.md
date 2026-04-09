@@ -1,4 +1,4 @@
-# Quest 6: First Quest
+# Quest 7: First Quest
 
 ## O cenário
 

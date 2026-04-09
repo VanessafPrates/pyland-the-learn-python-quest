@@ -1,4 +1,4 @@
-# Quest 6: Methods
+# Quest 8: Methods
 
 ## O cenário
 
