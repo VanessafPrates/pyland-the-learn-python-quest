@@ -1,0 +1,12 @@
+name = input("Como é seu nome? ")
+char_class = input("Qual sua classe? ")
+hp = int(input("HP? "))
+mana = int(input("Quantidade de mana ou energia? "))
+gold = int(input("Quantidade de ouro: "))
+
+print("-----REGISTRO DE PERSONAGEM COMPLETO-----")
+print(f"Nome: {name}")
+print(f"Classe: {char_class}")
+print(f"HP: {hp}")
+print(f"Mana ou Energia: {mana}")
+print(f"Ouro: {gold}")
